@@ -1,1 +1,5 @@
 markdown:   kramdown
+
+url: http://beverettssf.github.io/
+
+baseurl: beverettssf
